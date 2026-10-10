@@ -1,0 +1,4 @@
+order_id,customer_id,product,quantity,unit_price,city,order_timestamp
+O107,C107,Laptop,1,65000,Mumbai,2026-10-03 09:00:00
+O108,C108,Mouse,2,800,Delhi,2026-10-03 10:00:00
+O109,C109,Monitor,1,12000,Kanpur,2026-10-03 11:00:00

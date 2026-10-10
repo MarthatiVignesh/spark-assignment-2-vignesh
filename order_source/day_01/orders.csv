@@ -1,0 +1,5 @@
+order_id,customer_id,product,quantity,unit_price,city,order_timestamp
+O101,C101,Laptop,1,55000,Lucknow,2026-10-01 09:15:00
+O102,C102,Mouse,2,800,Delhi,2026-10-01 10:20:00
+O103,C103,Keyboard,1,1500,Kanpur,2026-10-01 11:10:00
+O104,C104,Monitor,2,12000,Lucknow,2026-10-01 12:05:00
