@@ -1,0 +1,2 @@
+order_id,customer_id,product,quantity,unit_price,city,order_timestamp
+O110,C110,Keyboard,2,2000,Hyderabad,2026-10-04 10:00:00
